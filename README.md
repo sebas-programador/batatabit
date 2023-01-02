@@ -1,6 +1,6 @@
 ## Descripción
 
-Este es una aplicación web responsive creada con HTML y CSS y con metodología BEM
+Esta es una aplicación web responsive creada con HTML y CSS y con metodología BEM
 
 ## Autor
 **Sebastian Zapata**
