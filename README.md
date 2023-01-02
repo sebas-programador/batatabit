@@ -5,7 +5,7 @@ Este es una aplicación web responsive creada con HTML y CSS y con metodología 
 ## Autor
 **Sebastian Zapata**
 
-  *  [LinkedIn](linkedin.com/in/sebas-programador)
+  *  [LinkedIn](https://www.linkedin.com/in/sebas-programador/)
 
 # Instalación
 Este proyecto no necesita de instalación
